@@ -57,7 +57,7 @@ body {
 }
 
 .keys button.operator {
-    background-color: orange;
+    background-color: #cc2e06;
 }
 .keys button.equals {
     width: 100%;
@@ -72,8 +72,8 @@ body {
 }
 
 .keys button.operator:hover {
-    background-color: #ffb429;
+    background-color: #901e01;
 }
 .keys button.operator:active {
-    background-color: #fccc75;
+    background-color: #901e01;
 }
